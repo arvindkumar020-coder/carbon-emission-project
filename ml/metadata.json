@@ -1,0 +1,17 @@
+{
+    "categorical": [
+        "Make",
+        "Model",
+        "Fuel"
+    ],
+    "numeric": [
+        "EngineSize",
+        "Cylinders",
+        "FuelConsumption"
+    ],
+    "target": "CO2Emissions",
+    "metrics": {
+        "MAE_g_per_km": 12.372166666666669,
+        "RMSE_g_per_km": 15.917068738377123
+    }
+}
