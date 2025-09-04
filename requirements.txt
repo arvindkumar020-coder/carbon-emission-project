@@ -1,5 +1,9 @@
 Flask==2.3.2
+<<<<<<< HEAD
 numpy==1.26.0
+=======
+numpy==1.25.2
+>>>>>>> 3dd0691 (Final project commit)
 pandas==2.1.0
 scikit-learn==1.3.1
 joblib==1.3.2
