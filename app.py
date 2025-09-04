@@ -294,6 +294,7 @@ def home():
                     "Great job! Your car is performing better than the fleet average.",
                     "Keep maintaining your vehicle regularly.",
                     "Try using biofuels or renewable energy options when possible."
+                    "Also use safety measures to increase rider safety"
                 ]
         except Exception as e:
             prediction = f"Error: {str(e)}"
