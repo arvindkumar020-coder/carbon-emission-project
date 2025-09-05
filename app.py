@@ -243,8 +243,8 @@ HTML_FORM = """
 
         <div class="extra-images">
             <h3>Eco Awareness</h3>
-            <img src="{{url_for('static', filename='static/car.webp')}}" alt="Eco Car">
-            <img src="{{url_for('static', filename='static/eco-car-logo-template-design_316488-465.jpg')}}" alt="CO₂ Awareness">
+            <img src="{{url_for('static', filename='car')}}" alt="Eco Car">
+            <img src="{{url_for('static', filename='eco-car-logo-template-design_316488-465')}}" alt="CO₂ Awareness">
         </div>
     </div>
 </body>
